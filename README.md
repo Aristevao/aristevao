@@ -1,7 +1,4 @@
-<h2 align="center">Hi there 👋, I'm Ari!</h2>
-<h3 align="center">A technology-loving Web Developer</h3>
-
-<hr>
+<h2>Hi there 👋, I'm Ari!</h2>
 
 ### 🔭 Currently working at [Venturus](https://www.venturus.org.br/)
 
